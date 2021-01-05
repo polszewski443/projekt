@@ -1,0 +1,1 @@
+CALL pokazProduktyProducenta(1);

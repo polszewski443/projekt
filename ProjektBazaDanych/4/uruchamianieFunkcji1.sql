@@ -1,0 +1,1 @@
+SELECT sprawdzenieCenyLeku('Acnelec','masc',3.99,22,2);

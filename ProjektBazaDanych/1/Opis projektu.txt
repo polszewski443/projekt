@@ -1,0 +1,39 @@
+Projekt powstał w celu stworzenia bazy danych przeznaczonej dla sieci aptek, usprawniającej jej funkcjonowanie.
+Przechowuje szczegółowe dane o aptekach, ich pracownikach oraz byłych pracownikach,
+klientach, produktach, ich producentach oraz stanie,
+a także fakturach i zamówieniach.
+Relacyjna baza danych składa się z 9 powiązanych ze sobą tabel wypełnionych rekordami.
+Z tabelą "pracownik" związany jest wyzwalacz byli_pracownicy, mający na celu archiwizację usuwanego z niej rekordu do tabeli "byli_pracownicy_arch", 
+co umożliwia przetrzymywanie informacji o byłych pracownikach.
+Wyzwalacz nazwaProduktuWalidator związany z tabelą "produkt" uniemożliwia zmianę nazwy produktu, co czyni ją możliwą jedynie do odczytu.
+Stworzona procedura pokazProduktyProducenta po wpisaniu id producenta wyświetla wszystkie produkty tego producenta dostępne w aptece,
+a funkcja sprawdzenieCenyLeku umożliwia dodanie rekordu do tabeli produkt, przy czym w przypadku,
+gdy cena_brutto produktu będzie niższa niż 5.00, otrzymamy informację
+o możliwym błędzie cenowym.
+Opisy zapytań:
+Zapytanie1:
+Pokazuje id, nazwę, typ i id producenta dla produktów, których cena brutto jest niższa niż cena brutto produktu o id 38.
+Zapytanie2:
+Pokazuje średnią ceny brutto zaokrągloną do dwóch miejsc po przecinku dla każdego typu produktu.
+Zapytanie3:
+Pokazuje na podstawie id, który pracownik jest kierownikiem dla danego pracownika.
+Zapytanie4:
+Pokazuje zgodnie z rosnącym id producenta, id, nazwę i typ produktu oraz id, nazwę i miasto ich producenta.
+Zapytanie5:
+Pokazuje pracowników apteki, których pensja jest mniejsza bądź równa pensi pracownika o id równym dwa 
+oraz tytuł zawodowy nie może być mgrfarm.
+Zapytanie6:
+Pokazuje całkowitą wartość pieniężną sprzedaży oraz całkowitą sprzedaż ilościową.
+Zapytanie7:
+Pokazuje zliczoną ilość produktów, zliczoną ilość typów produktów, a także najwyższą oraz najniższą cenę brutto produktu.
+Zapytanie8:
+Pokazuje id zamowienia i apteki oraz imię i nazwisko klienta dla 53 zamówienia.
+Zapytanie9:
+Pokazuje stan ilosciowy produktow w aptece o id 2.
+Zapytanie10:
+Pokazuje sumę pensji oraz średnią pensję zaokrągloną do dwóch miejsc po przecinku dla pracowników, którzy są kobietami, a ich tytuł zawodowy to mgrfarm.
+Zapytanie11:
+Pokazuje id i adres apteki oraz id, imię i nazwisko jej kierownika.
+Zapytanie12;
+Pokazuje nazwe, typ i ilość produktu oraz jego cene, a także id zamowienia oraz jego date dla zamowień, gdzie typ produktu to kapsułki.
+

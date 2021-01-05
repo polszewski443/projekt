@@ -1,0 +1,23 @@
+id_produktu,nazwa_produktu,typ_produktu,id_producenta,nazwa_producenta,miasto
+23,Paracetamol,tabletki,1,FarmBio,Warszawa
+30,"Syrop prawoślazowy",syrop,1,FarmBio,Warszawa
+37,Solgar,tabletki,1,FarmBio,Warszawa
+44,Anacard,tabletki,1,FarmBio,Warszawa
+24,"Essentiale Forte",kapsułki,2,PolLab,Wrocław
+31,"Mollers tran",syrop,2,PolLab,Wrocław
+38,Zdrowit,tabletki,2,PolLab,Wrocław
+25,"Sudocrem Expert",krem,3,P&OFarmTech,Gdańsk
+32,Apap,tabletki,3,P&OFarmTech,Gdańsk
+39,Ulgix,kapsułki,3,P&OFarmTech,Gdańsk
+26,Dicoflor,kapsułki,4,FarmEx,Kraków
+33,Aromatol,płyn,4,FarmEx,Kraków
+40,Valused,kapsułki,4,FarmEx,Kraków
+27,Strepsils,pastylki,5,FarmPol,Białystok
+34,Voltaren,maść,5,FarmPol,Białystok
+41,"Maść końska",maść,5,FarmPol,Białystok
+28,Nurofen,kapsułki,6,PolandFarma,Gdynia
+35,Diohespan,tabletki,6,PolandFarma,Gdynia
+42,"Zielony jęczmień",kapsułki,6,PolandFarma,Gdynia
+29,Menopauzin,tabletki,7,PolMedGroup,Lublin
+36,Molekin,tabletki,7,PolMedGroup,Lublin
+43,Nifuroksazyd,tabletki,7,PolMedGroup,Lublin

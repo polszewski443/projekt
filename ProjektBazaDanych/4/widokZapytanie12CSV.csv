@@ -1,0 +1,17 @@
+nazwa_produktu,typ_produktu,ilosc,cena_brutto,id_zamowienia,data
+"Essentiale Forte",kapsułki,1,32.99,14,2020-12-05
+"Essentiale Forte",kapsułki,2,65.98,55,2020-12-07
+Dicoflor,kapsułki,1,38.99,13,2020-12-04
+Dicoflor,kapsułki,1,38.99,29,2020-12-03
+Ulgix,kapsułki,2,47.98,10,2020-12-03
+Ulgix,kapsułki,1,23.99,17,2020-12-06
+Ulgix,kapsułki,1,23.99,35,2020-12-04
+Ulgix,kapsułki,1,23.99,40,2020-12-05
+Ulgix,kapsułki,1,23.99,48,2020-12-06
+Valused,kapsułki,1,23.99,25,2020-12-02
+Valused,kapsułki,1,23.99,33,2020-12-03
+Valused,kapsułki,1,23.99,49,2020-12-06
+"Zielony jęczmień",kapsułki,1,5.99,3,2020-12-02
+"Zielony jęczmień",kapsułki,30,179.70,19,2020-12-06
+"Zielony jęczmień",kapsułki,1,5.99,23,2020-12-02
+"Zielony jęczmień",kapsułki,1,5.99,42,2020-12-05

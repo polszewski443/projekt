@@ -1,0 +1,23 @@
+id_apteki,ilosc,nazwa_produktu,typ_produktu,cena_brutto,id_producenta
+2,40,Paracetamol,tabletki,23.99,1
+2,70,"Essentiale Forte",kapsułki,32.99,2
+2,30,"Sudocrem Expert",krem,15.99,3
+2,40,Dicoflor,kapsułki,38.99,4
+2,70,Strepsils,pastylki,16.99,5
+2,40,Nurofen,kapsułki,27.99,6
+2,70,Menopauzin,tabletki,19.99,7
+2,90,"Syrop prawoślazowy",syrop,18.99,1
+2,60,"Mollers tran",syrop,25.99,2
+2,70,Apap,tabletki,17.99,3
+2,60,Aromatol,płyn,23.99,4
+2,40,Voltaren,maść,13.99,5
+2,80,Diohespan,tabletki,17.99,6
+2,90,Molekin,tabletki,9.99,7
+2,70,Solgar,tabletki,16.99,1
+2,70,Zdrowit,tabletki,13.99,2
+2,60,Ulgix,kapsułki,23.99,3
+2,80,Valused,kapsułki,23.99,4
+2,50,"Maść końska",maść,9.99,5
+2,40,"Zielony jęczmień",kapsułki,5.99,6
+2,70,Nifuroksazyd,tabletki,32.99,7
+2,80,Anacard,tabletki,45.99,1

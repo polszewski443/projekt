@@ -1,0 +1,7 @@
+id_pracownika,imie,nazwisko,pesel,plec,tyt_zaw,data_urodzenia,nr_tel,email,pensja,id_apteki
+3,Ilona,Baran,88021674464,k,techfarm,1988-02-16,628493283,ilonabaran1988@gmail.com,3200.00,1
+4,Agnieszka,Kneblewska,82120328341,k,techfarm,1982-12-03,755122222,agnieszkakneblewska1982@gmail.com,3200.00,1
+5,Gabriela,Kozłowska,61030367222,k,techfarm,1961-03-03,783941324,gabrielakozlowska1961@gmail.com,3200.00,1
+9,Ewelina,Kołodziej,73100257485,k,techfarm,1973-10-03,563859113,ewelinakolodziej1973@gmail.com,3200.00,2
+10,Alicja,Przybylska,90042291821,k,techfarm,1990-04-22,693565821,alicjaprzybylska1990@gmail.com,3200.00,2
+11,Helena,Woźniak,87070322922,k,techfarm,1987-07-03,653912385,helenawozniak1987@gmail.com,3200.00,2

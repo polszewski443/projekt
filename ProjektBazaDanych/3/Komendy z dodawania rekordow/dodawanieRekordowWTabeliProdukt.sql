@@ -1,0 +1,25 @@
+USE projekt;
+INSERT INTO produkt (nazwa_produktu,typ_produktu,cena_brutto,vat,id_producenta) 
+VALUES
+('Paracetamol','tabletki',23.99,22,1),
+('Essentiale Forte','kapsułki',32.99,22,2),
+('Sudocrem Expert','krem',15.99,22,3),
+('Dicoflor','kapsułki',38.99,22,4),
+('Strepsils','pastylki',16.99,22,5),
+('Nurofen','kapsułki',27.99,22,6),
+('Menopauzin','tabletki',19.99,22,7),
+('Syrop prawoślazowy','syrop',18.99,22,1),
+('Mollers tran','syrop',25.99,22,2),
+('Apap','tabletki',17.99,22,3),
+('Aromatol','płyn',23.99,22,4),
+('Voltaren','maść',13.99,22,5),
+('Diohespan','tabletki',17.99,22,6),
+('Molekin','tabletki',9.99,22,7),
+('Solgar','tabletki',16.99,22,1),
+('Zdrowit','tabletki',13.99,22,2),
+('Ulgix','kapsułki',23.99,22,3),
+('Valused','kapsułki',23.99,22,4),
+('Maść końska','maść',9.99,22,5),
+('Zielony jęczmień','kapsułki',5.99,22,6),
+('Nifuroksazyd','tabletki',32.99,22,7),
+('Anacard','tabletki',45.99,22,1);
